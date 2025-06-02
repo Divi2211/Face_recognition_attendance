@@ -30,7 +30,7 @@ Welcome to the **Face Recognition Attendance System** — an easy-to-use, real-t
    Run the capture script and save face images:
    ```bash
    python capture_faces.py
-Press c to capture your face, q to quit.
+  Press c to capture your face, q to quit.
 
 2. **Run Attendance**
 Start the attendance system:
@@ -40,5 +40,7 @@ Press q to stop.
 
 4. **View Logs**
 Attendance logs are saved daily in the attendance_logs/ folder as CSV files named by date.
+
 Made with ❤️ by Divija
+
 Happy Attendance! 🎉
